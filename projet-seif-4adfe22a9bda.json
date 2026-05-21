@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projet-seif",
+  "private_key_id": "4adfe22a9bdaf4e3ac6190bf3ceab80666574ba1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDEVXJXojxu0P+b\nYs6C1rrj3wHDtF9Uq11/mEPW6YakuuOaCmEKHz3FZRwb/i3L0+JOHl2pXoQXy1By\nXhujji5CvfDR1vVXWX2AM11g0Yh1+5b/WDBV/WGyJ8IHMCVLnyccllw2HQinP7VD\n6T5j21BQKZwr3dCdAOjiGk2YxUM10H8A4hTtbB350uhZC9jDKErj03eKWbVYNnl0\nQihtcovVXVJ764ki+6NiIVzDA0d4THudYJCaEDU5G5NIU7XjcID7wILNaCMchDIT\nEBreoxYgKOOatS+Fn/wUgf11lHYQkzubq7AMEQrnPjlau4a7yc5z4c4M2CxQexYB\nWaDjK239AgMBAAECggEAALClheX9vQyiVAMlOKkqilHRVBpr2gSpf8ui3rwpYKYr\ngJzCueIMOd0LcT8TyCCcLgFwpioSisbd0dkU0x6qePTpRhjcTzdITU1g6aMy4z9E\nHkJKwTKdHPQuJrpQ7JLIShMZNd4k6/mPAzMW/guE8miDB6sa6EJa5IM1J0aiNYE0\nKvwsDqoPQvDCDsnMnXPcm3fa3i3Pc5cuctYKRSxs1eEpzTR60XNqPeE8TrrweFbE\nJq7SgvHQoZjuI3pq5ZkSbBd6Fe+dsNBfByzEb9nqzKH7Q9jZIXIeLVVptmvPJOeC\nll3rz2iBKN61MuM8szroRtQHoFwo3nDGIOIhGrA5vQKBgQD7bY/Bwy1xEb/mbZ41\nthzTZKAlxhxwvJj52O9vCvDZ+wGP34aT2vmJRboe5YHXk2P6eYoNy5WGIZ3XNNs/\nd/Frgw7zLdW8KYptfuh44Va9nl2mCemzR5tJ/M6uBIztQ6JXxuqLhMMUMmP1hLzq\n7VPn0BoBnWl5eFjAfJygEn7pAwKBgQDH52meLu5dQPeYGMkRLGA9Ve8mAzUoYGBT\ngBsIzM1DHKzg84OumOI2T16DLrx9qb1a2iR3NdmgjikwUpMXMKAIsX0gZEGutuO3\nAU17g2NVTW3+Z4vJt0I+X0msPs45GIg9QL09ubXOpi5JeOQFnUC62Mni+L81U4eV\nQEiv4hcc/wKBgAp+HQS6D3hrhDWql3KoYfWUenZ5GRC/Xib3Ha7lpv2B0yPc8THU\nbpuC9Gx7qXqEpSR70/4VY+0QFBU6GHhCmimhc4tEe2n51dQR+sOoq8UICeJ3AXDA\n6UMiMMHkYLk6HFlLbNhbtwRtwewqGPQ46UqATcWJezBdjF6kFKk9fFxfAoGAVyxH\n944Zrhrdnbr5O37xfO3Teu0dKj1U5DTSFTVSMXj4vqQSgXnz86EK4wPneJkjlNHZ\n4w5dl9FGjucDc7Jlp0TW/uAZcHoatTxhMIJsN8+rLqyy3cUHozFkbDN7NJTJHIT1\nwUwRx0ralnmcXgJkLtbIuyykHToOvvwodmKOl7sCgYBlymlxH6wWhaDBBS1CFIkr\nUIJe/JMymkf+FIQoxRV+ZGigO2OhMgfaW2pMUQgLuq0xxhchDTwnX53RNt3dmBOZ\nCK7Gt42loDYh2/a5R3tM4hI/TkTaEDp38I3uxgPmkUeJE6gQVBDT8wTwYM518KyH\nNcMUg4LU/d8dWArB6rqa3Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pipeline-stock-sa@projet-seif.iam.gserviceaccount.com",
+  "client_id": "104872613028578634704",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pipeline-stock-sa%40projet-seif.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
